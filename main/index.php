@@ -1,6 +1,6 @@
 <html lang="en">
 
-<?php include '_head.php'; ?>
+<?php include '../_head.php'; ?>
 
 <body>
 
@@ -60,7 +60,7 @@
                     </div>
 
                     <div class="col-lg-6">
-                        <img src="https://placehold.co/600x400/ab72ed/ffffff?text=Product+Preview" class="img-fluid rounded-4 shadow" alt="Product Preview" loading="lazy">
+                        <img src="https://placehold.co/600x400/ab72ed/ffffff?text=Product+Preview" class="img-fluid rounded-1 shadow" alt="Product Preview" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -245,7 +245,7 @@
 
 
 
-    <?php include '_scripts.php'; ?>
+    <?php include '../_scripts.php'; ?>
 </body>
 
 </html>

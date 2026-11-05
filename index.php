@@ -24,12 +24,6 @@
                     <li class="nav-item">
                         <a class="nav-link text-secondary" href="#pricing">Pricing</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-secondary" href="#about">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-secondary" href="#contact">Contact</a>
-                    </li>
                 </ul>
 
                 <div class="ms-lg-4">

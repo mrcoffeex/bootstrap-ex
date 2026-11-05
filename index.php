@@ -238,7 +238,7 @@
     <footer class="py-4 bg-dark text-white-50">
         <div class="container d-flex flex-column flex-md-row justify-content-between align-items-center gap-2">
             <span class="fw-bold text-white">Brand</span>
-            <small>&copy; 2025 Brand. Made for the next idea.</small>
+            <small>&copy; 2025 Brand. Made for the next idea george.</small>
             <a href="#home" class="link-light text-decoration-none">Back to top &uarr;</a>
         </div>
     </footer>

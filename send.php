@@ -38,7 +38,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         if ($mail->send()) {
             echo 'Email Sent';
         } else {
-            echo 'Email Not Sent';
+            echo 'Email Not Sent!';
         }
     } catch (Exception $e) {
         echo 'Failed: ' . $mail->ErrorInfo;

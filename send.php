@@ -18,7 +18,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         echo 'Please fill in all fields';
         exit;
     }
-
+//Hello
+//HI
+//hello
     $mail = new PHPMailer(true);
     try {
         $mail->isSMTP();

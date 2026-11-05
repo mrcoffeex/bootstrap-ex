@@ -48,7 +48,7 @@
                             New Feature Released
                         </span>
                         <h1 class="display-4 fw-bold text-dark lh-sm mb-3">
-                            Build modern web apps faster than ever
+                            Build modern web apps faster than ever!
                         </h1>
                         <p class="lead text-muted mb-4">
                             A flexible, responsive starting point designed to showcase your core value proposition with clean Bootstrap 5 utilities.
@@ -71,7 +71,7 @@
                 <div class="row justify-content-center text-center mb-5">
                     <div class="col-lg-7">
                         <span class="text-primary fw-semibold text-uppercase small">Everything you need</span>
-                        <h2 class="display-6 fw-bold mt-2 mb-3">A simpler way to bring ideas to life</h2>
+                        <h2 class="display-6 fw-bold mt-2 mb-3">A simpler way to bring ideas to life!</h2>
                         <p class="text-muted mb-0">Spend less time wrestling with setup and more time creating an experience your customers will remember.</p>
                     </div>
                 </div>

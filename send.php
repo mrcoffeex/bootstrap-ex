@@ -36,9 +36,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $mail->AltBody = 'Sent with PHPMailer.';
 
         if ($mail->send()) {
-            echo 'Email Sent';
+            echo 'Email Sent Successfully!';
         } else {
-            echo 'Email Not Sent';
+            echo 'Email Not Sent!';
         }
     } catch (Exception $e) {
         echo 'Failed: ' . $mail->ErrorInfo;

@@ -18,9 +18,7 @@
                     <li class="nav-item">
                         <a class="nav-link active fw-semibold" aria-current="page" href="#home">Home</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-secondary" href="#features">Features</a>
-                    </li>
+                    
                     <li class="nav-item">
                         <a class="nav-link text-secondary" href="#pricing">Pricing</a>
                     </li>

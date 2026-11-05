@@ -12,7 +12,10 @@
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
+            <div>
 
+            <h1> Hello World haha Im vinz camus</h1>
+            </div>
             <div class="collapse navbar-collapse" id="mainNavbar">
                 <ul class="navbar-ul navbar-nav ms-auto mb-2 mb-lg-0 gap-lg-3">
                     <li class="nav-item">

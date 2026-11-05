@@ -51,7 +51,7 @@
                             Build modern web apps faster than ever
                         </h1>
                         <p class="lead text-muted mb-4">
-                            A flexible, responsive starting point designed to showcase your core value proposition with clean Bootstrap 5 utilities.
+                            A flexible, starting point designed to showcase your core value proposition with clean Bootstrap 5 utilities.
                         </p>
                         <div class="d-flex flex-column flex-sm-row justify-content-center justify-content-lg-start gap-3">
                             <a href="#" class="btn btn-primary btn-lg px-4 rounded-pill">Get Started Free</a>

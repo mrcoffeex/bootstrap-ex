@@ -45,7 +45,7 @@
                 <div class="row align-items-center gy-4">
                     <div class="col-lg-6 text-center text-lg-start">
                         <span class="badge bg-primary-subtle text-primary fw-semibold mb-3 px-3 py-2 rounded-pill">
-                            New Feature Released
+                            New Feature Released!
                         </span>
                         <h1 class="display-4 fw-bold text-dark lh-sm mb-3">
                             Build modern web apps faster than ever
